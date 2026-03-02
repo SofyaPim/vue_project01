@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as n,a as t}from"./index-BpRXSkqI.js";const c={},r={class:"card"};function a(p,o,_,d,l,f){return e(),n("div",r,[...o[0]||(o[0]=[t("h3",null,"The Asynchronous Component",-1)])])}const m=s(c,[["render",a]]);export{m as default};
